@@ -4,9 +4,9 @@ theme: jekyll-theme-lanyon
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               The Buck's Blog
+tagline:             entries by ashish patel
+url:                 http://ashish.life
 paginate:            1
 baseurl:             ""
 
@@ -19,14 +19,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ashish Patel
+  url:               http://ashish.life/
+  email:             patelashish53@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/ashish3805/ashish3805.github.io
 
 # Gems
 plugins:
